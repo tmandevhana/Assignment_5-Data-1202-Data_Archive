@@ -1,0 +1,92 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Population Type,location,urbanRural,accommodationType,Female 0-4,Female 5-11,Female 12-17,Female 18-59,Female 60 or more,Female Unknown,Female Total,Male 0-4,Male 5-11,Male 12-17,Male 18-59,Male 60 or more,Male Unknown,Male Total,Total
+2020,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,16,0,0,16,0,0,0,5,0,0,5,21
+2020,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,5,17,0,0,22,0,0,6,15,0,0,21,43
+2020,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,213
+2020,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,417
+2020,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2020,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2020,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,15,16,25,74,5,0,135,9,32,12,99,5,0,157,292
+2020,ZWE,BWA,Zimbabwe,Botswana,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,8,0,0,8,0,6,0,6,0,0,12,20
+2020,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2020,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,BGR,Zimbabwe,Bulgaria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,119,0,61,180,0,0,0,93,0,29,122,334
+2020,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,59,0,16,75,0,0,0,45,0,15,60,629
+2020,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,57,0,0,57,0,0,0,33,0,0,33,90
+2020,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2020,ZWE,COD,Zimbabwe,Democratic Republic of the Congo,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,8,8,0,0,0,0,0,18,18,26
+2020,ZWE,CYP,Zimbabwe,Cyprus,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,CZE,Zimbabwe,Czechia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2020,ZWE,ECU,Zimbabwe,Ecuador,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2020,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2020,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51
+2020,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,149,149,0,0,0,0,0,318,318,467
+2020,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1594
+2020,ZWE,GEO,Zimbabwe,Georgia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,DEU,Zimbabwe,Germany,ASY,,,,11,11,9,105,5,0,141,9,15,11,78,0,0,113,254
+2020,ZWE,DEU,Zimbabwe,Germany,REF,,,,14,12,16,104,5,0,151,5,16,14,96,0,0,131,282
+2020,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2020,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2020,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,ZWE,IND,Zimbabwe,India,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,23,42,31,292,6,0,394,28,47,26,195,0,0,296,690
+2020,ZWE,IRL,Zimbabwe,Ireland,REF,,,,14,27,21,277,0,0,339,15,22,20,196,5,0,258,597
+2020,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2020,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2020,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2020,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2020,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2020,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2020,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2020,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2020,ZWE,MLT,Zimbabwe,Malta,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,0,0,0,17,0,0,17,0,0,0,35,0,0,35,52
+2020,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,10,17,0,0,27,0,10,0,20,0,0,30,57
+2020,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,13,13,0,0,0,0,0,12,12,25
+2020,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2020,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2020,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2020,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,PHL,Zimbabwe,Philippines,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,ZWE,POL,Zimbabwe,Poland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,ROU,Zimbabwe,Romania,REF,,,,6,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+2020,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,95,180,5260,37,0,5572,5,78,164,5093,83,0,5423,10995
+2020,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,73,175,1422,59,0,1729,5,74,163,1928,55,0,2225,3954
+2020,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2020,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2020,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2020,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,0,8,0,0,0,0,8,0,0,0,0,0,0,0,8
+2020,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,9,9,9
+2020,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2020,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2020,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,7,0,0,0,0,7,0,0,0,0,0,0,0,12
+2020,ZWE,SXM,Zimbabwe,Sint Maarten (Dutch part),REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,TZA,Zimbabwe,United Republic of Tanzania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,9,0,0,0,0,0,9,9
+2020,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1041
+2020,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,756
+2020,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,11,15,6,62,0,0,94,10,18,10,0,0,0,38,132
+2020,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280
