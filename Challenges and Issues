@@ -1,0 +1,9 @@
+Data Quality and Accuracy:
+Data might contain errors, inconsistencies, or inaccuracies due to human errors during data entry, data integration from different sources, or issues during data collection. Poor data quality can lead to incorrect analyses and conclusions.
+
+Missing Data:
+Missing data can arise due to various reasons, such as incomplete surveys, data not being recorded, or data corruption. Dealing with missing data requires careful handling to avoid bias and ensure accurate analysis.
+
+Data Integration:
+Combining data from different sources with varying formats, structures, and semantics can be complex. Ensuring seamless integration while maintaining data quality and consistency is a challenge.
+
