@@ -1,0 +1,1275 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Population Type,location,urbanRural,accommodationType,Female 0-4,Female 5-11,Female 12-17,Female 18-59,Female 60 or more,Female Unknown,Female Total,Male 0-4,Male 5-11,Male 12-17,Male 18-59,Male 60 or more,Male Unknown,Male Total,Total
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+population_type,,,,#affected+f+infants+age_0_4,#affected+f+children+age_5_11,#affected+f+adolescents+age_12_17,#affected+f+adults+age_18_59,#affected+f+elderly+age_60,#affected+f+unknown_age,#affected+f+total,#affected+m+infants+age_0_4,#affected+m+children+age_5_11,#affected+m+adolescents+age_12_17,#affected+m+adults+age_18_59,#affected+m+elderly+age_60,#affected+m+unknown_age,#affected+m+total,#affected+all+total
+2001,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,11,11,11
+2001,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2001,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2001,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2566
+2001,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2001,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225
+2001,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2001,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2001,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2001,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59
+2002,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2002,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2002,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2002,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2002,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,5,0,0,21,0,0,26,26
+2002,ZWE,BGR,Zimbabwe,Bulgaria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,BLZ,Zimbabwe,Belize,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,665
+2002,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104
+2002,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3515
+2002,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2002,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2002,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175
+2002,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2002,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2002,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2002,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,34,0,0,34,0,0,0,80,0,0,80,114
+2002,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2002,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,6,0,0,6,0,0,0,12,0,0,12,18
+2002,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219
+2002,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139
+2003,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2003,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2003,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2003,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,67
+2003,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2003,ZWE,BGR,Zimbabwe,Bulgaria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,BLZ,Zimbabwe,Belize,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84
+2003,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,654
+2003,ZWE,ECU,Zimbabwe,Ecuador,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5754
+2003,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47
+2003,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2003,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99
+2003,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,271
+2003,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2003,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2003,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2003,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+2003,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2003,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,47,0,0,47,0,0,0,111,0,0,111,2677
+2003,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,13
+2003,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2003,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2003,ZWE,THA,Zimbabwe,Thailand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,363
+2003,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,270
+2004,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2004,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81
+2004,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2004,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,BLZ,Zimbabwe,Belize,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2004,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1979
+2004,ZWE,COL,Zimbabwe,Colombia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6505
+2004,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90
+2004,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58
+2004,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73
+2004,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,312
+2004,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2004,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2004,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2004,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2004,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2004,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98
+2004,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2004,ZWE,POL,Zimbabwe,Poland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8466
+2004,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2004,ZWE,SVN,Zimbabwe,Slovenia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2004,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,7,0,0,7,0,0,0,9,0,0,9,16
+2004,ZWE,THA,Zimbabwe,Thailand,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,514
+2004,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,481
+2005,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2005,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77
+2005,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2005,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2005,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,17,0,5,22,0,0,0,58,0,0,58,87
+2005,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,CAN,Zimbabwe,Canada,ASY,,,,28,0,0,256,5,53,342,22,0,0,216,0,45,283,625
+2005,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2433
+2005,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2005,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,5,5,0,0,0,0,0,6,6,11
+2005,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7093
+2005,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120
+2005,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2005,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,GIN,Zimbabwe,Guinea,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,342
+2005,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2005,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,MDA,Zimbabwe,Republic of Moldova,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7
+2005,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2005,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2005,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2005,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2005,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110
+2005,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2005,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15978
+2005,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114
+2005,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2005,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2005,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2005,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,TZA,Zimbabwe,United Republic of Tanzania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,THA,Zimbabwe,Thailand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,469
+2005,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,891
+2006,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2006,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113
+2006,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2006,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,87
+2006,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,250,250,0,0,0,0,0,258,258,508
+2006,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2674
+2006,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,5,5,0,0,0,0,0,8,8,13
+2006,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8062
+2006,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59
+2006,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2006,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,GIN,Zimbabwe,Guinea,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2006,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65
+2006,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,356
+2006,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2006,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,LTU,Zimbabwe,Lithuania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2006,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2006,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2006,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2006,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2006,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124
+2006,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,211
+2006,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2006,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2006,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2006,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2006,ZWE,TZA,Zimbabwe,United Republic of Tanzania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,THA,Zimbabwe,Thailand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,436
+2006,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1025
+2006,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+2007,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,148
+2007,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2007,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96
+2007,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,CAN,Zimbabwe,Canada,ASY,,,,13,0,0,184,7,32,236,17,0,0,183,5,35,240,476
+2007,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3076
+2007,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,ETH,Zimbabwe,Ethiopia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,8,8,0,0,0,0,0,11,11,19
+2007,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8707
+2007,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2007,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2007,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2007,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102
+2007,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,383
+2007,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,10
+2007,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2007,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2007,ZWE,MLT,Zimbabwe,Malta,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2007,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2007,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2007,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,121
+2007,ZWE,PAK,Zimbabwe,Pakistan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33351
+2007,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,477
+2007,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2007,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2007,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2007,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,5,0,5,10,0,0,0,0,0,0,0,10
+2007,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2007,ZWE,TTO,Zimbabwe,Trinidad and Tobago,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,251
+2007,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1207
+2008,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2008,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69
+2008,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,294
+2008,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2008,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2008,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,5,12,0,0,17,7,0,0,22,0,9,38,55
+2008,ZWE,BWA,Zimbabwe,Botswana,REF,,,,55,0,0,167,10,110,342,39,0,0,324,6,97,466,808
+2008,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,CAN,Zimbabwe,Canada,ASY,,,,20,0,0,233,16,43,312,15,0,0,231,10,33,289,601
+2008,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3455
+2008,ZWE,CMR,Zimbabwe,Cameroon,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,ZWE,ECU,Zimbabwe,Ecuador,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,ETH,Zimbabwe,Ethiopia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,9,9,0,0,0,0,0,12,12,21
+2008,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9637
+2008,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2008,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2008,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,HUN,Zimbabwe,Hungary,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2008,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147
+2008,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,395
+2008,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2008,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2008,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2008,ZWE,LTU,Zimbabwe,Lithuania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2008,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2008,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2008,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2008,ZWE,MLT,Zimbabwe,Malta,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,5,0,0,8,0,0,13,0,0,0,20,0,0,20,33
+2008,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2008,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2008,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2008,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130
+2008,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2008,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2008,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33351
+2008,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,473
+2008,ZWE,SOM,Zimbabwe,Somalia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,11,0,0,11,0,0,0,25,0,0,25,36
+2008,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2008,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2008,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,5,0,0,5,0,0,0,14,0,5,19,24
+2008,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,8,0,5,13,0,0,0,0,0,0,0,13
+2008,ZWE,TZA,Zimbabwe,United Republic of Tanzania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,TTO,Zimbabwe,Trinidad and Tobago,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,281
+2008,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1438
+2008,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2008,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2009,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86
+2009,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,564
+2009,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2009,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2009,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,5,8,0,0,13,5,0,0,16,0,5,26,39
+2009,ZWE,BWA,Zimbabwe,Botswana,REF,,,,61,0,0,188,15,108,372,49,0,0,326,8,105,488,860
+2009,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,CAN,Zimbabwe,Canada,ASY,,,,19,0,0,243,22,34,318,10,0,0,216,11,23,260,578
+2009,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3740
+2009,ZWE,CMR,Zimbabwe,Cameroon,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2009,ZWE,ECU,Zimbabwe,Ecuador,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,ZWE,ETH,Zimbabwe,Ethiopia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2009,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14119
+2009,ZWE,DEU,Zimbabwe,Germany,ASY,,,,5,0,0,14,0,0,19,5,0,0,45,0,0,50,69
+2009,ZWE,DEU,Zimbabwe,Germany,REF,,,,5,0,0,17,0,0,22,0,0,0,20,0,0,20,42
+2009,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2009,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118
+2009,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,409
+2009,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2009,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2009,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2009,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2009,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,MEX,Zimbabwe,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2009,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,MWI,Zimbabwe,Malawi,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2009,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2009,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,5,0,0,16,0,0,21,5,0,0,63,0,5,73,94
+2009,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2009,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2009,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2009,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+2009,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2009,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,135
+2009,ZWE,PAN,Zimbabwe,Panama,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,673
+2009,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,19,0,0,19,0,0,0,35,0,0,35,54
+2009,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2009,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2009,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2009,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,5,0,5,10,7,0,0,0,0,0,7,17
+2009,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,TTO,Zimbabwe,Trinidad and Tobago,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2009,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,227
+2009,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1666
+2009,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,9,0,0,9,0,0,5,6,0,0,11,20
+2009,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2010,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2010,ZWE,ARG,Zimbabwe,Argentina,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105
+2010,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,775
+2010,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2010,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2010,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72
+2010,ZWE,BWA,Zimbabwe,Botswana,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,750
+2010,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,CAN,Zimbabwe,Canada,ASY,,,,10,0,0,140,10,19,179,9,0,0,117,5,16,147,326
+2010,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3986
+2010,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2010,ZWE,ECU,Zimbabwe,Ecuador,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2010,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,ZWE,ETH,Zimbabwe,Ethiopia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,12,12,0,0,0,0,0,20,20,32
+2010,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14819
+2010,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,5,13,0,0,18,5,0,0,37,0,0,42,60
+2010,ZWE,DEU,Zimbabwe,Germany,REF,,,,5,0,0,22,0,5,32,0,0,5,19,0,0,24,56
+2010,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,HRV,Zimbabwe,Croatia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2010,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193
+2010,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,415
+2010,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2010,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2010,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2010,ZWE,JPN,Zimbabwe,Japan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2010,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,LUX,Zimbabwe,Luxembourg,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,MEX,Zimbabwe,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,ZWE,MWI,Zimbabwe,Malawi,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,5,0,0,0,5,0,0,0,5,0,0,5,10
+2010,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,5,0,0,9,0,0,14,0,5,0,66,0,0,71,85
+2010,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,9,0,0,9,5,0,0,9,0,5,19,28
+2010,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,6,6,0,0,0,0,0,6,6,12
+2010,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2010,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+2010,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2010,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139
+2010,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1100
+2010,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,9,9,9
+2010,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33
+2010,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2010,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,7,0,0,7,0,6,0,0,0,0,6,13
+2010,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,TTO,Zimbabwe,Trinidad and Tobago,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2010,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1783
+2010,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2010,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,108,0,0,108,180
+2011,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,7,0,0,7,0,0,0,7,0,0,7,14
+2011,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2011,ZWE,ARG,Zimbabwe,Argentina,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150
+2011,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,888
+2011,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2011,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2011,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,6,0,0,15,0,13,34,6,0,0,22,0,12,40,74
+2011,ZWE,BWA,Zimbabwe,Botswana,REF,,,,59,0,0,200,11,114,384,67,0,0,401,8,83,559,943
+2011,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,5,32,5,5,47,6,0,0,20,0,0,26,73
+2011,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,5,213,12,32,262,0,0,5,169,8,27,209,4223
+2011,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2011,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2011,ZWE,ETH,Zimbabwe,Ethiopia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,10,10,0,0,0,0,0,20,20,30
+2011,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,869
+2011,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15118
+2011,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,0,5,12,0,0,17,0,0,0,27,0,0,27,44
+2011,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,0,5,23,0,5,33,0,0,0,18,0,5,23,56
+2011,ZWE,GHA,Zimbabwe,Ghana,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225
+2011,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,417
+2011,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2011,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2011,ZWE,LSO,Zimbabwe,Lesotho,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,MEX,Zimbabwe,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,ZWE,MWI,Zimbabwe,Malawi,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,ZWE,MOZ,Zimbabwe,Mozambique,ASY,,,,0,0,5,0,0,0,5,0,0,0,5,0,0,5,10
+2011,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,6,0,0,20,0,0,26,5,0,0,36,0,0,41,67
+2011,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,10,0,0,10,5,0,0,9,0,0,14,24
+2011,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2011,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2011,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2011,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2011,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142
+2011,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,POL,Zimbabwe,Poland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35044
+2011,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1100
+2011,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,SDN,Zimbabwe,Sudan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2011,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2011,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2011,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,8,0,0,8,0,0,0,0,0,6,6,14
+2011,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+2011,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1876
+2011,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2011,ZWE,ZWE,Zimbabwe,Zimbabwe,IDP,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54278
+2011,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2011,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2012,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2012,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,7,0,0,7,0,5,0,0,0,0,5,12
+2012,ZWE,ARG,Zimbabwe,Argentina,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150
+2012,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,953
+2012,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2012,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,8,13,0,0,21,5,8,0,15,0,0,28,49
+2012,ZWE,BWA,Zimbabwe,Botswana,REF,,,,51,69,55,203,11,0,389,72,51,39,401,9,0,572,961
+2012,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,CAN,Zimbabwe,Canada,ASY,,,,7,0,0,38,0,0,45,0,5,0,17,0,0,22,67
+2012,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,17,5,0,22,0,0,0,10,0,0,10,4341
+2012,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2012,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,ZWE,ETH,Zimbabwe,Ethiopia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,13,13,0,0,0,0,0,22,22,35
+2012,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,584
+2012,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12158
+2012,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,5,0,12,0,0,17,0,0,0,21,0,0,21,38
+2012,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,9,0,24,0,0,33,0,0,7,19,0,0,26,59
+2012,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,HRV,Zimbabwe,Croatia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2012,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250
+2012,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244
+2012,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2012,ZWE,JPN,Zimbabwe,Japan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2012,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2012,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,MWI,Zimbabwe,Malawi,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,0,8,0,22,0,0,30,0,0,5,44,0,0,49,79
+2012,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,10,0,0,10,0,6,0,8,0,0,14,24
+2012,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2012,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2012,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,5,5,0,0,0,0,0,9,9,14
+2012,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2012,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123
+2012,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40375
+2012,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1095
+2012,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,SDN,Zimbabwe,Sudan,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,8,0,0,0,8,0,0,0,7,0,0,7,15
+2012,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2012,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2012,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2012,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,9,0,0,9,0,5,0,0,0,0,5,14
+2012,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2012,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2012,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1866
+2012,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,ZWE,ZWE,Zimbabwe,Zimbabwe,IDP,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57926
+2012,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,0,0,0,17,0,0,17,0,0,5,0,0,0,5,22
+2012,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2013,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,10,0,0,10,0,0,0,6,0,0,6,16
+2013,ZWE,EGY,Zimbabwe,Egypt,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2013,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2013,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,991
+2013,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2013,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2013,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,9,0,11,0,0,20,5,7,0,12,0,0,24,44
+2013,ZWE,BWA,Zimbabwe,Botswana,REF,,,,60,69,54,212,11,0,406,77,55,38,410,9,0,589,995
+2013,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,26,0,0,26,0,5,0,16,0,0,21,47
+2013,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,9,30,5,0,44,0,0,10,23,5,0,38,3969
+2013,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2013,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2013,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,15,15,0,0,0,0,0,22,22,37
+2013,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,540
+2013,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10302
+2013,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,6,0,15,0,0,21,0,5,0,15,0,0,20,41
+2013,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,7,0,23,0,0,30,0,5,0,13,0,0,18,48
+2013,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2013,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,242
+2013,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,5,7,72,0,0,84,0,5,8,74,0,0,87,171
+2013,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2013,ZWE,JPN,Zimbabwe,Japan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,5,0,0,0,5,0,0,0,0,0,0,0,5
+2013,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2013,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2013,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,7,0,7,23,0,0,37,0,0,11,50,0,0,61,98
+2013,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,5,0,8,0,0,13,0,0,8,11,0,0,19,32
+2013,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2013,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2013,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65
+2013,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,POL,Zimbabwe,Poland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40523
+2013,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1158
+2013,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,SDN,Zimbabwe,Sudan,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,SVN,Zimbabwe,Slovenia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,8,0,0,0,8,0,0,0,7,0,0,7,15
+2013,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2013,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2013,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2013,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,9,0,5,14,0,0,0,0,0,0,0,14
+2013,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,TUR,Zimbabwe,Turkey,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98
+2013,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1711
+2013,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2013,ZWE,ZWE,Zimbabwe,Zimbabwe,IDP,,,,0,5,5,19,0,0,29,9,9,5,0,0,0,23,60139
+2013,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,7,7,5,14,0,0,33,7,5,0,0,0,0,12,97
+2013,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,5,0,0,0,5,0,0,5,0,0,0,5,10
+2014,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2014,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163
+2014,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1020
+2014,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2014,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,5,5,0,10,0,0,20,5,6,0,12,0,0,23,43
+2014,ZWE,BWA,Zimbabwe,Botswana,REF,,,,52,71,53,199,9,0,384,62,59,32,399,10,0,562,946
+2014,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,16,0,0,16,0,0,5,11,0,0,16,37
+2014,ZWE,CAN,Zimbabwe,Canada,REF,,,,6,0,0,24,0,0,30,0,0,5,20,0,0,25,2767
+2014,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2014,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2014,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2014,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,15,15,0,0,0,0,0,22,22,37
+2014,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,631
+2014,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9466
+2014,ZWE,DEU,Zimbabwe,Germany,ASY,,,,5,0,0,16,0,0,21,0,0,0,17,0,0,17,38
+2014,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,7,0,17,5,0,29,0,5,0,13,0,0,18,47
+2014,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2014,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,263
+2014,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157
+2014,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2014,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2014,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2014,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,LUX,Zimbabwe,Luxembourg,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,MAR,Zimbabwe,Morocco,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,5,0,0,21,0,0,26,0,5,0,37,0,0,42,68
+2014,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,0,0,14,0,0,14,0,0,0,18,0,0,18,32
+2014,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2014,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+2014,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2014,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47
+2014,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,POL,Zimbabwe,Poland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,ROU,Zimbabwe,Romania,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2014,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40823
+2014,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,2645,2645,0,0,0,0,0,3572,3572,6217
+2014,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,SDN,Zimbabwe,Sudan,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2014,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2014,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,5,0,0,5,0,5,15,0,0,0,0,0,0,0,15
+2014,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,TUR,Zimbabwe,Turkey,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2014,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280
+2014,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1492
+2014,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2014,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,0,6,5,18,0,44,73,9,7,6,0,0,21,43,116
+2014,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+2015,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2015,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2015,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129
+2015,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1009
+2015,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2015,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,6,0,0,0,0,6,0,6,0,0,0,0,6,12
+2015,ZWE,BWA,Zimbabwe,Botswana,REF,,,,41,57,44,146,8,0,296,63,54,29,230,6,0,382,678
+2015,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,ZWE,BGR,Zimbabwe,Bulgaria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,7,17,0,0,24,0,0,0,18,0,0,18,42
+2015,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2368
+2015,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,13,0,0,13,0,0,0,10,0,0,10,23
+2015,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2015,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2015,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,13,13,0,0,0,0,0,21,21,34
+2015,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,475
+2015,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9045
+2015,ZWE,DEU,Zimbabwe,Germany,ASY,,,,0,7,0,12,0,0,19,0,5,0,10,0,0,15,34
+2015,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,5,0,23,0,0,28,0,0,0,18,0,0,18,46
+2015,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,HKG,Zimbabwe,"China, Hong Kong Special Administrative Region",ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2015,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,HUN,Zimbabwe,Hungary,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,8,12,12,114,0,0,146,13,12,6,74,0,0,105,251
+2015,ZWE,IRL,Zimbabwe,Ireland,REF,,,,0,5,10,80,0,0,95,0,5,5,81,5,0,96,191
+2015,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,JPN,Zimbabwe,Japan,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,LSO,Zimbabwe,Lesotho,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,6,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+2015,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,LUX,Zimbabwe,Luxembourg,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,MDA,Zimbabwe,Republic of Moldova,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2015,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,5,6,0,17,0,0,28,0,5,0,43,0,0,48,76
+2015,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,5,0,15,0,0,20,0,5,5,12,0,0,22,42
+2015,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2015,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2015,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+2015,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,PHL,Zimbabwe,Philippines,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,ROU,Zimbabwe,Romania,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2015,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55978
+2015,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6358
+2015,ZWE,RUS,Zimbabwe,Russian Federation,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2015,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2015,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2015,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,8,0,0,8,0,5,0,0,0,0,5,18
+2015,ZWE,TUR,Zimbabwe,Turkey,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,261
+2015,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1316
+2015,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2015,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2015,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,6,15,0,66,0,0,87,0,13,12,23,0,0,48,135
+2015,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+2016,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2016,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2016,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110
+2016,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1021
+2016,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2016,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,0,6,0,0,0,6,0,6,0,0,0,0,6,12
+2016,ZWE,BWA,Zimbabwe,Botswana,OOC,,,,0,5,5,9,0,0,19,9,0,0,5,0,0,14,33
+2016,ZWE,BWA,Zimbabwe,Botswana,REF,,,,37,63,42,156,8,0,306,62,57,26,235,7,0,387,693
+2016,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2016,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2016,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,35,0,0,35,0,0,0,30,0,0,30,89
+2016,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,33,0,0,33,0,0,0,13,5,0,18,1261
+2016,ZWE,CHN,Zimbabwe,China,ASY,,,,5,0,0,20,0,0,25,0,0,0,19,0,0,19,44
+2016,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2016,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ZWE,CYP,Zimbabwe,Cyprus,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2016,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2016,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2016,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,16,16,0,0,0,0,0,21,21,37
+2016,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,361
+2016,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8790
+2016,ZWE,DEU,Zimbabwe,Germany,ASY,,,,11,13,9,81,5,0,119,9,10,17,86,0,0,122,241
+2016,ZWE,DEU,Zimbabwe,Germany,REF,,,,0,5,0,22,0,0,27,0,0,6,19,0,0,25,52
+2016,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,17,16,5,156,0,0,194,9,22,10,101,0,0,142,336
+2016,ZWE,IRL,Zimbabwe,Ireland,REF,,,,5,8,6,100,0,0,119,0,7,9,89,5,0,110,229
+2016,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2016,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2016,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,5,0,0,0,0,0,5,0,0,0,0,0,0,0,5
+2016,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,9,0,0,23,0,0,32,0,5,0,48,0,0,53,85
+2016,ZWE,NAM,Zimbabwe,Namibia,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,8,0,13,0,0,21,0,6,6,15,0,0,27,48
+2016,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2016,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2016,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2016,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+2016,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,PHL,Zimbabwe,Philippines,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,ROU,Zimbabwe,Romania,REF,,,,0,0,0,0,0,0,0,7,0,0,0,0,0,7,7
+2016,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,17531,17531,0,0,0,0,0,12948,12948,41260
+2016,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,2002,2002,0,0,0,0,0,2594,2594,4596
+2016,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,SDN,Zimbabwe,Sudan,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2016,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2016,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2016,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2016,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,7,0,6,13,0,0,0,0,0,0,0,13
+2016,ZWE,TUR,Zimbabwe,Turkey,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,573
+2016,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1163
+2016,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,0,6,0,0,0,6,6
+2016,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,0,5,0,5,0,48,58,0,0,0,0,0,71,71,129
+2016,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2017,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,8,0,19,0,0,27,0,8,0,11,0,0,19,46
+2017,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2017,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117
+2017,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,986
+2017,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2017,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,8,0,0,0,0,8,0,9,0,0,0,0,9,17
+2017,ZWE,BWA,Zimbabwe,Botswana,OOC,,,,0,8,0,13,0,0,21,0,7,0,5,0,0,12,33
+2017,ZWE,BWA,Zimbabwe,Botswana,REF,,,,42,51,39,161,8,0,301,53,60,29,227,7,0,376,677
+2017,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2017,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,BGR,Zimbabwe,Bulgaria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142
+2017,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1146
+2017,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,49,0,0,49,0,0,0,28,0,0,28,77
+2017,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,COD,Zimbabwe,Democratic Republic of the Congo,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2017,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,CYP,Zimbabwe,Cyprus,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2017,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2017,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,18,18,0,0,0,0,0,26,26,44
+2017,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,287
+2017,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8236
+2017,ZWE,DEU,Zimbabwe,Germany,ASY,,,,18,16,6,90,5,0,135,12,16,11,95,0,0,134,269
+2017,ZWE,DEU,Zimbabwe,Germany,REF,,,,5,5,7,57,5,0,79,5,8,11,51,0,0,75,154
+2017,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2017,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,22,38,15,225,0,0,300,17,34,14,148,0,0,213,513
+2017,ZWE,IRL,Zimbabwe,Ireland,REF,,,,5,9,5,111,0,0,130,5,5,7,100,5,0,122,252
+2017,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2017,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2017,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,5,0,0,5,5,0,0,7,0,0,12,17
+2017,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2017,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2017,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2017,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2017,ZWE,MLT,Zimbabwe,Malta,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,MLT,Zimbabwe,Malta,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,5,5,0,23,0,0,33,7,0,0,48,0,0,55,88
+2017,ZWE,NAM,Zimbabwe,Namibia,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,NAM,Zimbabwe,Namibia,REF,,,,5,7,0,18,0,0,30,0,8,6,20,0,0,34,64
+2017,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2017,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2017,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32
+2017,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,PHL,Zimbabwe,Philippines,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,ROU,Zimbabwe,Romania,REF,,,,0,0,0,0,0,0,0,8,0,0,0,0,0,8,8
+2017,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,10531,10531,0,0,0,0,0,8759,8759,19290
+2017,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,1983,1983,0,0,0,0,0,2575,2575,4558
+2017,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,SDN,Zimbabwe,Sudan,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2017,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2017,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2017,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2017,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,8,0,0,8,0,0,0,0,0,7,7,15
+2017,ZWE,SXM,Zimbabwe,Sint Maarten (Dutch part),ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,THA,Zimbabwe,Thailand,REF,,,,0,0,0,0,0,0,0,0,8,0,0,0,0,8,8
+2017,ZWE,TUR,Zimbabwe,Turkey,ASY,,,,0,0,5,15,0,0,20,0,10,7,0,0,0,17,37
+2017,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,768
+2017,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1049
+2017,ZWE,ZMB,Zimbabwe,Zambia,REF,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2017,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,6,18,12,60,0,0,96,8,23,10,0,0,0,41,137
+2017,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2018,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,9,0,0,25,0,0,34,0,6,5,12,0,0,23,57
+2018,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,0,0,10,0,0,10,0,0,0,6,0,0,6,16
+2018,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,173
+2018,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,851
+2018,ZWE,AUT,Zimbabwe,Austria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2018,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,7,5,14,0,0,26,0,8,5,5,0,0,18,44
+2018,ZWE,BWA,Zimbabwe,Botswana,REF,,,,29,53,39,154,6,0,281,48,61,32,214,6,0,361,642
+2018,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2018,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,BGR,Zimbabwe,Bulgaria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,249
+2018,ZWE,CAN,Zimbabwe,Canada,REF,,,,5,6,5,43,5,0,64,0,5,8,46,5,0,64,1018
+2018,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104
+2018,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,COD,Zimbabwe,Democratic Republic of the Congo,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2018,ZWE,CYP,Zimbabwe,Cyprus,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,CZE,Zimbabwe,Czechia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2018,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2018,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,19,19,0,0,0,0,0,27,27,46
+2018,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,273
+2018,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6772
+2018,ZWE,DEU,Zimbabwe,Germany,ASY,,,,16,5,16,106,0,0,143,8,18,10,109,0,0,145,288
+2018,ZWE,DEU,Zimbabwe,Germany,REF,,,,11,11,11,74,5,0,112,6,8,15,63,0,0,92,204
+2018,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2018,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2018,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,25,44,19,280,5,0,373,22,33,16,208,0,0,279,652
+2018,ZWE,IRL,Zimbabwe,Ireland,REF,,,,5,12,11,150,0,0,178,6,11,5,114,5,0,141,319
+2018,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2018,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2018,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2018,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2018,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2018,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,10,0,0,10,0,0,0,0,0,0,0,10
+2018,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2018,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2018,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2018,ZWE,MLT,Zimbabwe,Malta,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,MLT,Zimbabwe,Malta,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,0,7,0,9,0,0,16,5,0,0,27,0,0,32,48
+2018,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,9,0,16,0,0,25,0,6,5,18,0,0,29,54
+2018,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2018,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2018,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2018,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2018,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,PHL,Zimbabwe,Philippines,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,ROU,Zimbabwe,Romania,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,ROU,Zimbabwe,Romania,REF,,,,0,0,0,0,0,0,0,8,0,0,0,0,0,8,8
+2018,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14261
+2018,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4561
+2018,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,SRB,Zimbabwe,Serbia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,SDN,Zimbabwe,Sudan,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,7,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+2018,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2018,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2018,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,0,0,8,0,7,15,0,0,0,0,0,0,0,15
+2018,ZWE,SXM,Zimbabwe,Sint Maarten (Dutch part),REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,TUR,Zimbabwe,Turkey,ASY,,,,0,5,6,20,0,0,31,10,5,0,14,0,0,29,60
+2018,ZWE,TUR,Zimbabwe,Turkey,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2018,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,783
+2018,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,916
+2018,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,12,10,5,46,0,0,73,5,21,5,5,0,0,36,109
+2018,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2019,ZWE,AGO,Zimbabwe,Angola,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,EGY,Zimbabwe,Egypt,ASY,,,,0,0,0,20,0,0,20,0,5,5,6,0,0,16,36
+2019,ZWE,EGY,Zimbabwe,Egypt,REF,,,,0,5,0,11,0,0,16,0,0,0,11,0,0,11,27
+2019,ZWE,ARG,Zimbabwe,Argentina,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,AUS,Zimbabwe,Australia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,226
+2019,ZWE,AUS,Zimbabwe,Australia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,584
+2019,ZWE,AUT,Zimbabwe,Austria,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2019,ZWE,BEL,Zimbabwe,Belgium,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,BEL,Zimbabwe,Belgium,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,BWA,Zimbabwe,Botswana,ASY,,,,0,6,5,11,0,0,22,0,7,5,5,0,0,17,39
+2019,ZWE,BWA,Zimbabwe,Botswana,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,BWA,Zimbabwe,Botswana,REF,,,,30,46,33,137,5,0,251,35,58,23,196,0,0,312,563
+2019,ZWE,BRA,Zimbabwe,Brazil,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2019,ZWE,BRA,Zimbabwe,Brazil,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,BGR,Zimbabwe,Bulgaria,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,CAN,Zimbabwe,Canada,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,382
+2019,ZWE,CAN,Zimbabwe,Canada,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,728
+2019,ZWE,CHN,Zimbabwe,China,ASY,,,,0,0,0,62,0,0,62,0,0,5,41,0,0,46,108
+2019,ZWE,CHN,Zimbabwe,China,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2019,ZWE,COD,Zimbabwe,Democratic Republic of the Congo,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,CRI,Zimbabwe,Costa Rica,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,CYP,Zimbabwe,Cyprus,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2019,ZWE,CYP,Zimbabwe,Cyprus,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,CZE,Zimbabwe,Czechia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,CZE,Zimbabwe,Czechia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,DNK,Zimbabwe,Denmark,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,DNK,Zimbabwe,Denmark,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2019,ZWE,ECU,Zimbabwe,Ecuador,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2019,ZWE,ECU,Zimbabwe,Ecuador,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,FIN,Zimbabwe,Finland,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,ZWE,FIN,Zimbabwe,Finland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2019,ZWE,FRA,Zimbabwe,France,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,FRA,Zimbabwe,France,REF,,,,0,0,0,0,0,24,24,0,0,0,0,0,27,27,51
+2019,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,ASY,,,,0,0,0,0,0,215,215,0,0,0,0,0,175,175,390
+2019,ZWE,GBR,Zimbabwe,United Kingdom of Great Britain and Northern Ireland,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2324
+2019,ZWE,DEU,Zimbabwe,Germany,ASY,,,,16,14,7,114,5,0,156,12,21,13,97,0,0,143,299
+2019,ZWE,DEU,Zimbabwe,Germany,REF,,,,12,15,11,88,5,0,131,5,9,13,80,0,0,107,238
+2019,ZWE,GRC,Zimbabwe,Greece,ASY,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2019,ZWE,GRC,Zimbabwe,Greece,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2019,ZWE,HRV,Zimbabwe,Croatia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,HUN,Zimbabwe,Hungary,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,IND,Zimbabwe,India,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,IRL,Zimbabwe,Ireland,ASY,,,,34,47,28,325,5,0,439,43,51,28,229,0,0,351,790
+2019,ZWE,IRL,Zimbabwe,Ireland,REF,,,,7,20,16,209,0,0,252,8,17,11,145,5,0,186,438
+2019,ZWE,ISR,Zimbabwe,Israel,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2019,ZWE,ISR,Zimbabwe,Israel,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,ITA,Zimbabwe,Italy,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,ITA,Zimbabwe,Italy,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2019,ZWE,KEN,Zimbabwe,Kenya,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2019,ZWE,KEN,Zimbabwe,Kenya,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2019,ZWE,KOR,Zimbabwe,Republic of Korea,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2019,ZWE,LSO,Zimbabwe,Lesotho,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,LSO,Zimbabwe,Lesotho,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2019,ZWE,LTU,Zimbabwe,Lithuania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,MYS,Zimbabwe,Malaysia,ASY,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2019,ZWE,MYS,Zimbabwe,Malaysia,REF,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2019,ZWE,MWI,Zimbabwe,Malawi,ASY,,,,0,0,0,7,0,0,7,0,0,0,0,0,0,0,7
+2019,ZWE,MLT,Zimbabwe,Malta,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,MLT,Zimbabwe,Malta,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,NAM,Zimbabwe,Namibia,ASY,,,,0,0,0,17,0,0,17,0,0,0,34,0,0,34,51
+2019,ZWE,NAM,Zimbabwe,Namibia,REF,,,,0,5,5,17,0,0,27,0,5,5,20,0,0,30,57
+2019,ZWE,NLD,Zimbabwe,Netherlands,ASY,,,,0,0,0,0,0,12,12,0,0,0,0,0,11,11,23
+2019,ZWE,NLD,Zimbabwe,Netherlands,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2019,ZWE,NOR,Zimbabwe,Norway,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ZWE,NOR,Zimbabwe,Norway,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2019,ZWE,NZL,Zimbabwe,New Zealand,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,NZL,Zimbabwe,New Zealand,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2019,ZWE,PAN,Zimbabwe,Panama,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,PHL,Zimbabwe,Philippines,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,PRT,Zimbabwe,Portugal,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,PRT,Zimbabwe,Portugal,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,ROU,Zimbabwe,Romania,REF,,,,6,0,0,0,0,0,6,0,0,0,0,0,0,0,6
+2019,ZWE,ZAF,Zimbabwe,South Africa,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12825
+2019,ZWE,ZAF,Zimbabwe,South Africa,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4003
+2019,ZWE,ESP,Zimbabwe,Spain,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2019,ZWE,ESP,Zimbabwe,Spain,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,SVN,Zimbabwe,Slovenia,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,SWZ,Zimbabwe,Kingdom of Eswatini,REF,,,,0,7,0,0,0,0,7,0,0,0,0,0,0,0,7
+2019,ZWE,SWE,Zimbabwe,Sweden,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,7,7,7
+2019,ZWE,SWE,Zimbabwe,Sweden,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2019,ZWE,CHE,Zimbabwe,Switzerland,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2019,ZWE,CHE,Zimbabwe,Switzerland,REF,,,,0,8,0,0,0,0,8,0,0,0,0,0,0,0,13
+2019,ZWE,SXM,Zimbabwe,Sint Maarten (Dutch part),REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,TZA,Zimbabwe,United Republic of Tanzania,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,THA,Zimbabwe,Thailand,ASY,,,,0,0,0,0,0,0,0,9,0,0,0,0,0,9,9
+2019,ZWE,ARE,Zimbabwe,United Arab Emirates,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,UKR,Zimbabwe,Ukraine,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,UKR,Zimbabwe,Ukraine,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,URY,Zimbabwe,Uruguay,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,USA,Zimbabwe,United States of America,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,867
+2019,ZWE,USA,Zimbabwe,United States of America,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,825
+2019,ZWE,ZMB,Zimbabwe,Zambia,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ZWE,ZWE,Zimbabwe,Zimbabwe,IDP,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,270000
+2019,ZWE,ZWE,Zimbabwe,Zimbabwe,OOC,,,,10,11,5,59,0,0,85,10,21,5,0,0,0,36,121
+2019,ZWE,ZWE,Zimbabwe,Zimbabwe,RET,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132
