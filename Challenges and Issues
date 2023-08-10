@@ -1,9 +1,14 @@
 Data Quality and Accuracy:
-Data might contain errors, inconsistencies, or inaccuracies due to human errors during data entry, data integration from different sources, or issues during data collection. Poor data quality can lead to incorrect analyses and conclusions.
+Data contain errors, inconsistencies, and inaccuracies in particular the classification of data types and entry in the rows and this required thorough checking and conversion of the data to the correct type in the preprocessing phase incorrect analyses and conclusions.
 
 Missing Data:
-Missing data can arise due to various reasons, such as incomplete surveys, data not being recorded, or data corruption. Dealing with missing data requires careful handling to avoid bias and ensure accurate analysis.
+There was so much missing data. This could have arisen due to various reasons, such as incomplete surveys, data not being recorded, or data corruption. Dealing with missing data requires careful handling to avoid bias and ensure accurate analysis.
 
-Data Integration:
-Combining data from different sources with varying formats, structures, and semantics can be complex. Ensuring seamless integration while maintaining data quality and consistency is a challenge.
+Data Integration and Merging:
+Combining data from my two sources with varying formats, structures, and semantics was complex. I got an empty dataframe initially because the year for dataset 1 and two were different and didn't merge in the split table  Ensuring seamless integration while maintaining data quality and consistency is a challenge.
 
+Inconsistent Formatting:
+I faced challenges with the merging the tables due to inconsistent date format. This makes it difficult to compare and analyze data. Therefore standardizing formats is crucial for accurate analysis.Cleaning data requires that the data be consistent in format.
+
+Due to the above challenges I encountered numerous errors and empty dataframes which required further research and solution some of which I found online and some of it required a relook at the data and transforming it before analysis.
+The ETL is one of the fundamental and key aspects of data analysis and any mistep at this crucial stage may lead to a wrong analysis, distortion of results, and imminently wrong conclusions and decisions 
