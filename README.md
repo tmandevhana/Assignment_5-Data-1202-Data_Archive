@@ -1,2 +1,5 @@
-# Assignment_5-Data-1202-Data_Archive
-Data 1202 Assignment 5 Data Archive
+I have uploaded a dataset on Zimbabwe forced displacement initially obtained from Kaggle. It contains data on forced displacements in Zimbabwe and details to which countries they have migrated to,  reasons,  numbers, age, sex,  and the year of displacement. I split the data by separating the year 2020 and making it my dataset 2 for purposes of creating a merge in the analysis to create the final dataset. 
+I imported the data into python using the neccessary libraries and pandas, to help with sorting, filtering, and analyzing data easily and efficiently. 
+My data contained many missing values labelled Not-a-Number (NaN). It's commonly used in datasets to indicate the absence of a value, which can occur for various reasons, such as incomplete data, data entry errors, or data processing issues.
+In the data preprocessing stage I replaced the NaN values with zero instead of removing them using the fillna() to eunsure the data is clean before further processing and analysis. 
+I then merged the two datasets into the original dataset by concatenating the two DataFrames vertically as they represented similar data but split for different years as I highlighted in my data description earlier on.
